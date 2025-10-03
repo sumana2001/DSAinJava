@@ -28,6 +28,5 @@ public class BubbleSort {
         bubbleSort(arr);
         PrintAnyArray.printAnyArrayStatic(arr);
         sc.close();
-
     }
 }
